@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-![image14_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/6a1aa7bc-8e6a-45d8-a902-e6635b6fbffa)
-![image13_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/c929ec27-d553-44d8-af6e-9bc88f0a3baf)
-![image12_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/2567144b-deac-41c0-9249-336dc58983c7)
+![image14_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/6a1aa7bc-8e6a-45d8-a902-e6635b6fbffa) weight="500" height="600"
+![image13_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/c929ec27-d553-44d8-af6e-9bc88f0a3baf) weight="500" height="600"
+![image12_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/2567144b-deac-41c0-9249-336dc58983c7) weight="500" height="600"
 ![image11_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/f18b238e-6dac-4beb-90b3-595bbe68e382)
 ![image10_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/63f31ab8-acf3-4d05-84e0-a6b1366c8410)
 ![image8_iphone13blue_portrait](https://github.com/bhavin2412/ecommerce_application/assets/120154973/0ede5b16-5ac3-4bc8-a566-be08c0677bc3)
